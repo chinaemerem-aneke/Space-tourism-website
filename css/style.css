@@ -804,7 +804,7 @@ select {
             '. content image .'
             '. tabs image .';
     }
-    
+
     .grid-container--crew h3 {
         min-width: 40ch;
     }
@@ -831,7 +831,7 @@ select {
     
     .grid-container--technology {
         /* grid-template-columns: minmax(1em, 1fr) minmax(0, 90rem) minmax(0, 30rem) minmax(0, 70rem) minmax(1em, 1fr); */
-        grid-template-columns: minmax(1em,1fr) minmax(0, 6rem) repeat(3, minmax(0, 40rem)) minmax(1em,1fr);
+        grid-template-columns: minmax(1em, 1fr) minmax(0, 6rem) repeat(3, minmax(0, 40rem)) minmax(1em, 1fr);
         justify-items: start;
         align-content: center;
         padding-inline: 0;
