@@ -694,11 +694,7 @@ select {
 /* Desktop Layout      */
 /* ------------------- */
 @media (min-width: 65em) {
-
-    body {
-        overflow-y: hidden;
-    }
-
+    
     .primary-header {
         margin-block: 2rem 0;
     }
